@@ -46,7 +46,7 @@ Key loggers are activity-monitoring software programs that give hackers access t
 </p>
 
 ## How to use?
-After cloning & installing all the dependencies, run
+After cloning & installing all the dependencies, run,
 ```
 >>> python GenerateKey.py
 ```
